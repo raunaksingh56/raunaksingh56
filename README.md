@@ -50,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/raunaksingh56/raunaksingh56/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ The snake needs a small GitHub Action — setup file included separately (`snake.yml`).
 
 ---
 
